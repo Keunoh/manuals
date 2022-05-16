@@ -19,4 +19,4 @@
 
 [네이버](http://www.naver.com)
 
-![이미지 연습](./images/b4.jpg)
+![이미지 연습](./imgaes/b4.jpg)
