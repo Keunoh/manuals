@@ -16,3 +16,7 @@
 
 > 재미있는 기능들
 >> 또있나요??
+
+[네이버](http://www.naver.com)
+
+![이미지 연습](http://kyrieko.dothome.co.kr/images/first.jpg)
